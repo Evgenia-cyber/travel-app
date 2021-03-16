@@ -1,0 +1,465 @@
+{
+  "countries": [
+    {
+      "country": "Turcja",
+      "capital": "Ankara",
+      "url": "turkey",
+      "countryId": "298795",
+      "currencyCode": "TRY",
+      "population": "78.7 mln. osób",
+      "religion": "Islam",
+      "language": "turecki",
+      "currency": "lira turecka",
+      "lat": "39.920756",
+      "lng": "32.854049",
+      "timeZone":"Europe/Istanbul",
+      "flag": "https://restcountries.eu/data/tur.svg",
+      "countryImg": "turkey.jpg",
+      "gallery": [
+        {
+          "place": "Pamukkale (Pamukkale)",
+          "info": "Słynie z wapiennych osadów powstałych na zboczu góry Cökelez. Władze tureckie objęły teren ochroną tworząc w tym miejscu Park Narodowy, który objęło swoim patronatem UNESCO, wpisując go na listę światowego dziedzictwa przyrodniczego. Park Narodowy utworzono w celu ochrony trawertynów.",
+          "img": "turkey1.jpg"
+        },
+        {
+          "place": "Aspendos (Pamfilia)",
+          "info": "Starożytne greckie miasto w Azji Mniejszej (dzisiejsza Turcja), znane dziś z najlepiej zachowanego starożytnego amfiteatru na 15 000 miejsc, również obecnie wykorzystywanego do różnego rodzaju przedstawień i pokazów. Miejscowość leży 50 km od Antalyi. W tym amfiteatrze, 28 kwietnia 1987, swój ostatni koncert dała gwiazda piosenki francuskiej, Dalida, która 4 dni później popełniła samobójstwo.",
+          "img": "turkey2.jpg"
+        },
+        {
+          "place": "Błękitny Meczet (Stambuł)",
+          "info": "Zbudowany z polecenia sułtana Ahmeda I meczet w Stambule, który jest jednym z ostatnich, a zarazem najwspanialszych przykładów tzw. 'klasycznego okresu' sztuki islamskiej w Turcji.",
+          "img": "turkey3.jpg"
+        },
+        {
+          "place": "Zamek w Alanii",
+          "info": "Zamek zawdzięcza swoją dzisiejszą formę sułtanowi Alaeddin Keykubadowi, pod którego panowaniem (XIII wiek) Alanya przeżywała okres największego rozwoju. Położony na wysokości około 250 m n.p.m. na cyplu otoczonym z trzech stron wodą oraz odgrodzonym stromym zboczem od strony lądu.",
+          "img": "turkey4.jpg"
+        },
+        {
+          "place": "Ölüdeniz",
+          "info": "Najpiękniejszy kurort w Turcji. Miasteczko turystyczne położone nad Morzem Śródziemnym, ok. 60 km od lotniska w Dalaman i 12 km od Fethiye. Do atrakcji turystycznych Ölüdeniz należą laguna, góra Babadağ oraz miejski deptak.",
+          "img": "turkey5.jpg"
+        },
+        {
+          "place": "Basen Kleopatry (Pamukkale)",
+          "info": "Legenda głosi, że Mark Antony dał Kleopatrze miejsce znane obecnie jako Pamukkale, gdzie znajdował się piękny basen z ciepłą wodą leczniczą, a Kleopatra brała tu odmładzające kąpiele, a zwykli śmiertelnicy nie mogli zanurzyć się w nim pod groźbą śmierci.",
+          "img": "turkey6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Grecja",
+      "capital": "Ateny",
+      "url": "greece",
+      "countryId": "6697800",
+      "currencyCode": "EUR",
+      "population": "10.8  mln. osób",
+      "religion": "Prawosławie",
+      "language": "Nowogrecki",
+      "currency": "Euro",
+      "lat": "37.975527",
+      "lng": "23.734855",
+      "timeZone":"Europe/Athens",
+      "flag": "https://restcountries.eu/data/grc.svg",
+      "countryImg": "greece.jpg",
+      "gallery": [
+        {
+          "place": "Świątynia Apollina w Delfach",
+          "info": "Starożytna świątynia poświęcona Apollinowi w Delfach, współcześnie część stanowiska archeologicznego w Delfach, które w 1987 roku zostało wpisane na listę światowego dziedzictwa UNESCO.",
+          "img": "greece1.jpg"
+        },
+        {
+          "place": "Nawajo",
+          "info": "Plaża zlokalizowana na północno-zachodnim krańcu wyspy Zakintos, na Wyspach Jońskich. Otaczają ją strzeliste wapienne klify, woda jest krystalicznie czysta. Na plaży znajduje się wrak statku Panajotis.",
+          "img": "greece2.jpg"
+        },
+        {
+          "place": "Meteora",
+          "info": "(Meteory - wzniesiony w górę, będący wysoko w powietrzu) – masyw skał z piaskowca i zlepieńca w środkowej Grecji na północno-zachodnim krańcu równiny tesalskiej w okolicy miasta Kalambaka.",
+          "img": "greece3.jpg"
+        },
+        {
+          "place": "Petaloudes",
+          "info": "Jeden z najbardziej znanych zabytków na Rodos. Tysiące motyli z czteropunktowego gatunku niedźwiedzia (Euplagia quadripunctaria) przybywa do doliny od końca maja, po nadejściu pory suchej, zwabionych wilgocią i chłodem oraz zapachem styraksa.",
+          "img": "greece4.jpg"
+        },
+        {
+          "place": "Akropol ateński",
+          "info": "Akropol w Atenach, położony na wapiennym wzgórzu o wysokości względnej 70 m (prawie 157 m n.p.m.), zamieszkany w neolicie, w okresie mykeńskim znajdował się tu pałac z megaronem, od VI w. p.n.e. miejsce kultu Ateny.",
+          "img": "greece5.jpg"
+        },
+        {
+          "place": "Świątynia Zeusa Olimpijskiego",
+          "info": "największa spośród świątyń starożytnej Grecji, znajdująca się w Atenach, poświęcona Zeusowi. Jej budowa trwała z przerwami od VI wieku p.n.e. do II wieku n.e.",
+          "img": "greece6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Hiszpania",
+      "capital": "Madryt",
+      "url": "spain",
+      "countryId": "2510769",
+      "currencyCode": "EUR",
+      "population": "45.7  mln. osób",
+      "religion": "Katolicyzm",
+      "language": "Hiszpański",
+      "currency": "Euro",
+      "lat": "40.419348",
+      "lng": "-3.700897",
+      "timeZone":"Europe/Madrid",
+      "flag": "https://restcountries.eu/data/esp.svg",
+      "countryImg": "spain.jpg",
+      "gallery": [
+        {
+          "place": "Sagrada Família",
+          "info": "Secesyjny kościół w Barcelonie w Katalonii o statusie bazyliki mniejszej, uważany za główne osiągnięcie projektanta Antoniego Gaudíego. W 2005 roku fasada Narodzenia Pańskiego i krypta świątyni Sagrada Familia znalazły się na liście dziedzictwa UNESCO w Europie.",
+          "img": "spain1.jpg"
+        },
+        {
+          "place": "Park Güell",
+          "info": "Duży ogród z elementami architektonicznymi w Barcelonie przy ulicy Olot, bocznej alei Santuari de la Muntanya, w północno-centralnej części miasta.",
+          "img": "spain2.jpg"
+        },
+        {
+          "place": "Ibiza",
+          "info": "Ośrodek międzynarodowy. Wyspa jest najbardziej znana z licznych klubów, w których wykonywana jest muzyka elektroniczna w różnych stylach.",
+          "img": "spain3.jpg"
+        },
+        {
+          "place": "Loro Park",
+          "info": "Prywatny ogród zoologiczno-botaniczny położony w Puerto de la Cruz na Teneryfie.",
+          "img": "spain4.jpg"
+        },
+        {
+          "place": "Pałac Królewski w Madrycie",
+          "info": "Jest oficjalną rezydencją króla Hiszpanii, chociaż król Jan Karol I ani jego rodzina nie mieszkał w pałacu.",
+          "img": "spain5.jpg"
+        },
+        {
+          "place": "Toledo (Hiszpania)",
+          "info": "Znany ośrodek turystyczny, kultu religijnego – siedziba prymasów Hiszpanii. Jeden z najcenniejszych klejnotów hiszpańskiej architektury.",
+          "img": "spain6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Włochy",
+      "capital": "Rzym",
+      "url": "italy",
+      "countryId": "3165140",
+      "currencyCode": "EUR",
+      "population": "60.6  mln. osób",
+      "religion": "Katolicyzm",
+      "language": "Włoski",
+      "currency": "Euro",
+      "lat": "41.902689",
+      "lng": "12.496176",
+      "timeZone":"Europe/Rome",
+      "flag": "https://restcountries.eu/data/ita.svg",
+      "countryImg": "italy.jpg",
+      "gallery": [
+        {
+          "place": "Koloseum",
+          "info": "Amfiteatr, zabytek architektury starożytnego Rzymu, najsłynniejsza i jedna z najwspanialszych budowli starożytnego świata, które przetrwały do ​​naszych czasów.",
+          "img": "italy1.jpg"
+        },
+        {
+          "place": "Katedra w Mediolanie",
+          "info": "Katedra znajduje się w historycznym centrum Mediolanu. Dedykowany Narodzenia Najświętszej Maryi Panny. Zbudowany z białego marmuru w płonącym stylu gotyckim.",
+          "img": "italy2.jpg"
+        },
+        {
+          "place": "Canal Grande",
+          "info": "Cieśnina w Wenecji o długości 3,8 km. Ma kształt odwróconej litery „S” i przepływając przez środek miasta dzieli je na dwie części, każda po 3 dzielnice (sestieri): Cannaregio, San Marco i Castello, Santa Croce, San Polo i Dorsoduro.",
+          "img": "italy3.jpg"
+        },
+        {
+          "place": "Krzywa Wieża w Pizie",
+          "info": "Jedna z najbardziej znanych budowli świata, odwiedzana rocznie przez około 10 milionów turystów; symbol miasta Pizy. W istocie jest dzwonnicą (kampanilą) katedralną i należy do kompleksu zabudowań w stylu romańskim na Campo dei Miracoli, wpisanych w 1987 roku na listę światowego dziedzictwa UNESCO.",
+          "img": "italy4.jpg"
+        },
+        {
+          "place": "Wezuwiusz",
+          "info": "Aktywny wulkan w południowych Włoszech, około 15 km od Neapolu. Znajduje się nad brzegiem Zatoki Neapolitańskiej w prowincji Neapol, w regionie Kampania. Należy do systemu górskiego Apeninów, ma wysokość 1281 m.",
+          "img": "italy5.jpg"
+        },
+        {
+          "place": "Cinque Terre",
+          "info": "Cinque Terre razem z Portovenere i wyspami Palmaria, Tino i Tinetto w 1997 roku zostały wpisane na listę światowego dziedzictwa kulturalnego i przyrodniczego UNESCO jako Portovenere, Cinque Terre i wyspy (Palmaria, Tino i Tinetto). Powodem wpisu był fakt, iż odcinek wybrzeża, przy którym znajdują się wymienione miejscowości i wyspy, stanowi krajobraz kulturowy o znaczących walorach panoramicznych i kulturalnych.",
+          "img": "italy6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Sri Lanka",
+      "capital": "Sri Dźajawardanapura Kotte",
+      "url": "sri-lanka",
+      "countryId": "1227603",
+      "currencyCode": "LKR",
+      "population": "21.3  mln. osób",
+      "religion": "Buddyzm",
+      "language": "Syngaleski, Tamilski,",
+      "currency": "Rupia lankijska",
+      "lat": "6.872842",
+      "lng": "79.929345",
+      "timeZone":"Asia/Colombo",
+      "flag": "https://restcountries.eu/data/lka.svg",
+      "countryImg": "sriLanka.jpg",
+      "gallery": [
+        {
+          "place": "Sigirija",
+          "info": "Stanowisko archeologiczne w Sri Lance, z ruinami starożytnego pałacu i twierdzy wzniesionymi za panowania króla Kassapy (473–491) na szczycie 180-metrowej skały. Jedno z siedmiu miejsc w Sri Lance umieszczonych w wykazie światowego dziedzictwa kulturowo-przyrodniczego.",
+          "img": "sriLanka1.jpg"
+        },
+        {
+          "place": "Szczyt Adama",
+          "info": "Góra na wyspie Sri Lanka. Buddyści uważają tę górę za świętą.",
+          "img": "sriLanka2.jpg"
+        },
+        {
+          "place": "Kandy District ",
+          "info": "Perła wiary i kultury buddyjskiej Od 1540 roku jest siedzibą królów syngaleskich",
+          "img": "sriLanka3.jpg"
+        },
+        {
+          "place": "Nuwara Elija",
+          "info": "Nuwara Eliya jest tłumaczone z syngaleskiego jako „miasto światła”. Znajduje się na wysokości ponad 1800 metrów nad poziomem morza i zdobi podnóże najwyższego szczytu Cejlonu, Pidurutalagala lub Mount Pedro. Głównymi atrakcjami okolic miasta są plantacje herbaty, które malowniczo porozrzucane są jedwabistymi zielonymi dywanami na zboczach gór.",
+          "img": "sriLanka4.jpg"
+        },
+        {
+          "place": "Plaża Bentota ",
+          "info": "Bentota jest dziwna. Ma wielką, szeroką piaszczystą plażę i zero życia na plaży.",
+          "img": "sriLanka5.jpg"
+        },
+        {
+          "place": "Anuradhapura",
+          "info": "Anuradhapura to historyczna stolica syngaleskiego buddyjskiego państwa, które rozwijało się w okresie III wiek p.n.e.–XI wiek n.e. Według legendy początek miastu miała dać mniszka buddyjska Sanghamitta przywożąc i ofiarując królowi Sri Lanki Devanampiyatissowi gałąź ze świętego drzewa Bodhi pod którym miał medytować i doznać oświecenia Budda.",
+          "img": "sriLanka6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Zjednoczone Emiraty Arabskie",
+      "capital": "Abu Zabi",
+      "url": "uae",
+      "countryId": "290557",
+      "currencyCode": "AED",
+      "population": "9.3  mln. osób",
+      "religion": "Islam",
+      "language": "Arabski",
+      "currency": "dirham",
+      "lat": "24.485832",
+      "lng": "54.356555",
+      "timeZone":"Asia/Dubai",
+      "flag": "https://restcountries.eu/data/are.svg",
+      "countryImg": "uae.jpg",
+      "gallery": [
+        {
+          "place": "Burdż Chalifa",
+          "info": "Najwyższy budynek świata ( o wysokości 828 metrów). Jego nazwa pochodzi od imienia szejka Chalify ibn Zajida Al Nahajjana, obecnego prezydenta Zjednoczonych Emiratów Arabskich.",
+          "img": "uae1.jpg"
+        },
+        {
+          "place": "Fontanny Dubajskie",
+          "info": "Muzyczna fontanna zlokalizowana w sztucznym jeziorze o powierzchni ponad 12 hektarów obok Burdż Chalifa w centrum Dubaju.",
+          "img": "uae2.jpg"
+        },
+        {
+          "place": "Wielki Meczet Szejka Zajida",
+          "info": "Jeden z sześciu największych meczetów na świecie. Nazwany na cześć szejka Zayeda ibn Sultana al-Nahyana, założyciela i pierwszego prezydenta Zjednoczonych Emiratów Arabskich, pochowanego w pobliżu.",
+          "img": "uae3.jpg"
+        },
+        {
+          "place": "Al Mamzar Park (Duba",
+          "info": "Al Mamzar, ogromny kompleks plażowo-parkowy w Dubaju, położony jest na półwyspie o tej samej nazwie, praktycznie na granicy obu emiratów. Łączy w sobie 5 plaż jednocześnie: 4 położone są nad brzegiem Zatoki Perskiej, a jedna znajduje się w zacisznej, osłoniętej od fal morza cieśninie pomiędzy Dubajem a Szardżą „antydubajską”.",
+          "img": "uae4.jpg"
+        },
+        {
+          "place": "Akwarium w Dubai Mall",
+          "info": "Jedno z największych oceanariów na świecie, zlokalizowane w największym centrum handlowo-rozrywkowym na Bliskim Wschodzie - „Dubai Mall”.",
+          "img": "uae5.jpg"
+        },
+        {
+          "place": "Burdż al-Arab",
+          "info": "Budynek stoi w morzu w odległości 280 metrów od brzegu na sztucznej wyspie połączonej z ziemią mostem. Ma wysokość 321 m, obecnie Burj Al Arab zajmuje 5 miejsce wśród najwyższych hoteli na świecie, choć 39% jego całkowitej wysokości to lokale niezajęte.",
+          "img": "uae6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Egipt",
+      "capital": "Kair",
+      "url": "egypt",
+      "countryId": "357994",
+      "currencyCode": "EGP",
+      "population": "100  mln. osób",
+      "religion": "Islam",
+      "language": "Arabski",
+      "currency": "Funt egipski ",
+      "lat": "30.050747",
+      "lng": "31.246900",
+      "timeZone":"Africa/Cairo",
+      "flag": "https://restcountries.eu/data/egy.svg ",
+      "countryImg": "egipet.jpg",
+      "gallery": [
+        {
+          "place": "Piramidy w Gizie",
+          "info": "Kompleks starożytnych zabytków na płaskowyżu Gizy na przedmieściach Kairu. Uważa się, że budowle powstały w starożytnym królestwie starożytnego Egiptu za panowania IV-VI dynastii (XXVI-XXIII wiek pne).",
+          "img": "egipet1.jpg"
+        },
+        {
+          "place": "Dolina Królów",
+          "info": "Część nekropolii tebańskiej, dolina położona na terenie Teb Zachodnich będąca miejscem spoczynku królów Egiptu w okresie od XVIII do XX dynastii. Pierwszym faraonem, który nakazał budowę swojego grobowca w dolinie, z dala od znanych nekropolii, był Totmes I, ostatnim – Ramzes XI.",
+          "img": "egipet2.jpg"
+        },
+        {
+          "place": "Świątynia Luksorska",
+          "info": "Znana także jako Świątynia Narodzin Amona. Jedna z budowli starożytnego Egiptu, które można obejrzeć w Luksorze, w południowym Egipcie. Jest jednym z dwóch (drugim jest świątynia w Karnak) najważniejszych zabytków wschodniego brzegu Teb.",
+          "img": "egipet3.jpg"
+        },
+        {
+          "place": "Kurort Szarm el-Szejk (na południe od półwyspu Synaj)",
+          "info": "Półwysep na Morzu Czerwonym, na granicy Azji i Afryki, część terytorium Egiptu.",
+          "img": "egipet4.jpg"
+        },
+        {
+          "place": "Karnak",
+          "info": "Ьiasto w Górnym Egipcie, w muhafazie Luksor, na wschodnim brzegu Nilu, 2,5 km na północ od Luksoru. W starożytności miejscowość była częścią Teb, a obecnie postrzegana jest przez wielu jako część Luksoru, jako że obie miejscowości tworzą zwarty zespół miejski.",
+          "img": "egipet5.jpg"
+        },
+        {
+          "place": "Ras Muhammad",
+          "info": "Зrzylądek na Riwierze Morza Czerwonego, u południowych wybrzeży Półwyspu Synaj w muhafazie Synaj Południowy w Egipcie (na najdalej wysuniętym na południe skrawku półwyspu).",
+          "img": "egipet6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Czarnogóra",
+      "capital": "Podgorica",
+      "url": "montenegro",
+      "countryId": "3194884",
+      "currencyCode": "EUR",
+      "population": "621 873 osób",
+      "religion": "Prawosławie",
+      "language": "Czarnogórski",
+      "currency": "Euro",
+      "lat": "42.436491",
+      "lng": "19.252702",
+      "timeZone":"Europe/Podgorica",
+      "flag": "https://restcountries.eu/data/mne.svg",
+      "countryImg": "montenegro.jpg",
+      "gallery": [
+        {
+          "place": "Budva",
+          "info": "Miasto w Czarnogórze, położone w centralnej części wybrzeża Adriatyku. Budva została założona 2500 lat temu i jest jedną z najstarszych osad na wybrzeżu Adriatyku.",
+          "img": "montenegro1.jpg"
+        },
+        {
+          "place": "Katedra Świętego Tryfona ",
+          "info": "Katedra św. Tryfona mimo licznych przebudów jest wybitnym przykładem architektury romańskiej.",
+          "img": "montenegro2.jpg"
+        },
+        {
+          "place": "Monaster Ostrog",
+          "info": "Monaster został założony w XVII stuleciu przez metropolitę zahumskiego i hercegowińskiego Bazylego (Jovanovicia), kanonizowanego jako św. Bazyli Ostrogski, który przebywał w nim przez kilka ostatnich lat życia, do śmierci w 1671.",
+          "img": "montenegro3.jpg"
+        },
+        {
+          "place": "Kanion Tary",
+          "info": "Na terytorium Czarnogóry kanion jest pod ochroną w ramach Parku Narodowego Durmitor, który został wpisany na listę światowego dziedzictwa UNESCO.",
+          "img": "montenegro4.jpg"
+        },
+        {
+          "place": "Plaża Becici",
+          "info": "Plaża Becici na Riwierze Budva na przedmieściach Budvy to jedna z najlepszych plaż w Czarnogórze.",
+          "img": "montenegro5.jpg"
+        },
+        {
+          "place": "Djurdjevic Bridge",
+          "info": "Żelbetowy most łukowy nad rzeką Tarą w północnej części Czarnogóry. Znajduje się na skrzyżowaniu dróg między miastami Mojkovac, Zabljak i Pljevlja. Most Djurdzhevicha wziął swoją nazwę od nazwiska właściciela gospodarstwa, które znajduje się w pobliżu.",
+          "img": "montenegro6.jpg"
+        }
+      ]
+    }
+  ],
+  "placeholder": "Wpisz miasto",
+  "search": "szukać",
+  "feel": "Czuje się jak:",
+  "wind": "Wiatr:",
+  "ms": "m/s",
+  "humidity": "Wilgotność:",
+  "day": [
+    "Niedziela",
+    "Poniedziałek",
+    "Wtorek",
+    "Środa",
+    "Czwartek",
+    "Piątek",
+    "Sobota"
+  ],
+  "month": [
+    "Stycznia",
+    "Lutego",
+    "Marca",
+    "Kwietnia",
+    "Maja",
+    "Czerwca",
+    "Lipca",
+    "Sierpnia",
+    "Września",
+    "Października",
+    "Listopada",
+    "Grudnia"
+  ],
+  "lat": "Шырата:",
+  "lng": "Даўгата:",
+  "wether": {
+    "200": "Burza z piorunami i lekki deszcz",
+    "201": "Burza z deszczem",
+    "202": "Burza z ulewnym deszczem",
+    "231": "Burza z mżawką",
+    "232": "Burza z piorunami i ulewnym deszczem",
+    "233": "Burza z gradem",
+    "300": "Lekka mżawka",
+    "301": "Mżawka",
+    "302": "Ulewny deszcz",
+    "500": "Lekki deszcz",
+    "501": "Umiarkowany deszcz",
+    "502": "Ulewny deszcz",
+    "511": "Deszcz i śnieg",
+    "520": "Lekki deszcz",
+    "521": "Ulewa",
+    "522": "Obfite opady deszczu",
+    "600": "Lekki śnieg",
+    "601": "Śnieg",
+    "602": "Obfite opady śniegu",
+    "610": "Zmieszany śnieg / deszcz",
+    "611": "Mokry śnieg",
+    "612": "Silny deszcz ze śniegiem",
+    "621": "Opady śniegu",
+    "622": "Obfite opady śniegu",
+    "623": "Opady śniegu",
+    "700": "Zamglenie",
+    "711": "Dym",
+    "721": "Mgła",
+    "731": "Piasek / pył",
+    "741": "Mgła",
+    "751": "Mroźna mgła",
+    "800": "Bezchmurne",
+    "801": "Lekkie zachmurzenie",
+    "802": "Częściowe zachmurzenie",
+    "803": "Pochmurno, momentami przelotne",
+    "804": "Pochmurno",
+    "900": "Nieznane opady"
+  },
+  "error": "Nie ma takiego miejsca",
+  "notFound": "Strona nie znaleziona",
+  "authors": [
+    "Irena Kowalewska",
+    "Ivan Shukalo",
+    "Evgenia Kurineva"
+  ]
+}

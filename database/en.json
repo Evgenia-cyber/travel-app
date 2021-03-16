@@ -1,0 +1,465 @@
+{
+  "countries": [
+    {
+      "country": "Turkey",
+      "capital": "Ankara",
+      "url": "turkey",
+      "countryId": "298795",
+      "currencyCode": "TRY",
+      "population": "78.7 mln. inhabitants",
+      "religion": "islam",
+      "language": "turkish",
+      "currency": "turkish lira",
+      "lat": "39.920756",
+      "lng": "32.854049",
+     "timeZone":"Europe/Istanbul",
+      "flag": "https://restcountries.eu/data/tur.svg",
+      "countryImg": "turkey.jpg",
+      "gallery": [
+        {
+          "place": "Pamukkale (Pamukkale)",
+          "info": "Natural and cultural UNESCO World Heritage Site. Meaning 'cotton castle' in Turkish, is a natural site in Denizli Province in southwestern Turkey. The area is famous for a carbonate mineral left by the flowing of thermal spring water. It is located in Turkey's Inner Aegean region, in the River Menderes valley, which has a temperate climate for most of the year.",
+          "img": "turkey1.jpg"
+        },
+        {
+          "place": "Aspendos (Pamphylia)",
+          "info": "Aspendos was an ancient city in Pamphylia, Asia Minor, located about 40 km east of the modern city of Antalya, Turkey. It was situated on the Eurymedon River about 16 km inland from the Mediterranean Sea; it shared a border with, and was hostile to, Side.",
+          "img": "turkey2.jpg"
+        },
+        {
+          "place": "Sultan Ahmed Mosque (Istanbul)",
+          "info": "Also known as the Blue Mosque, is an Ottoman-era friday mosque located in Istanbul, Turkey. A functioning mosque, it also attracts large numbers of tourist visitors. It was constructed between 1609 and 1616 during the rule of Ahmed I.",
+          "img": "turkey3.jpg"
+        },
+        {
+          "place": "Alanya Castle",
+          "info": "Most of the castle was built in the 13th century under the Seljuq Sultanate of Rûm following the city's conquest in 1220 by Alaeddin Keykubad I, as part of a building campaign that included the Kızıl Kule.",
+          "img": "turkey4.jpg"
+        },
+        {
+          "place": "Ölüdeniz",
+          "info": "The most beautiful resort in Turkey.It has a sandy bay at the mouth of Ölüdeniz, on a blue lagoon.",
+          "img": "turkey5.jpg"
+        },
+        {
+          "place": "Cleopatra Pools (Pamukkale)",
+          "info": "Legend has it that Mark Antony gave Cleopatra a place now known as Pamukkale, where there was a beautiful pool with warm medicinal water and Cleopatra took rejuvenating baths here, and mere mortals could not plunge into it on pain of death.",
+          "img": "turkey6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Greece",
+      "capital": "Athens",
+      "url": "greece",
+      "countryId": "6697800",
+      "currencyCode": "EUR",
+      "population": "10.8 mln. inhabitants",
+      "religion": "Eastern Orthodoxy",
+      "language": "Greek",
+      "currency": "Euro",
+      "lat": "37.975527",
+      "lng": "23.734855",
+      "timeZone":"Europe/Athens",
+      "flag": "https://restcountries.eu/data/grc.svg",
+      "countryImg": "greece.jpg",
+      "gallery": [
+        {
+          "place": "Temple of Apollo (Delphi)",
+          "info": "Now it is the ruins of an ancient Greek temple, which in its type was a peripter, a Doric structure dating back to the 4th century BC",
+          "img": "greece1.jpg"
+        },
+        {
+          "place": "Navagio Beach or Shipwreck Beach",
+          "info": "The beach is surrounded on all sides by steep white limestone cliffs ranging in height from 45 to 225 meters, so it can only be reached by water. At the highest point, of those that surround the beach, there is an observation deck, from which a steep staircase leads down.",
+          "img": "greece2.jpg"
+        },
+        {
+          "place": "Meteora",
+          "info": "Is a rock formation in central Greece hosting one of the largest and most precipitously built complexes of Eastern Orthodox monasteries, second in importance only to Mount Athos. Meteora is included on the UNESCO World Heritage List.",
+          "img": "greece3.jpg"
+        },
+        {
+          "place": "Petaloudes",
+          "info": "One of the most famous landmarks in Rhodes. Thousands of butterflies of the four-point bear species (Euplagia quadripunctaria) flock to the valley from the end of May, after the onset of the dry season, attracted by moisture and coolness, as well as the smell of styrax.",
+          "img": "greece4.jpg"
+        },
+        {
+          "place": "Acropolis of Athens",
+          "info": "The Acropolis of Athens is an ancient citadel located on a rocky outcrop above the city of Athens and contains the remains of several ancient buildings of great architectural and historic significance, the most famous being the Parthenon.",
+          "img": "greece5.jpg"
+        },
+        {
+          "place": "Temple of Olympian Zeus",
+          "info": "The Temple of Olympian Zeus (Greek: Ναός του Ολυμπίου Διός, Naós tou Olympíou Diós), also known as the Olympieion or Columns of the Olympian Zeus, is a former colossal temple at the center of the Greek capital Athens. It was dedicated to 'Olympian' Zeus, a name originating from his position as head of the Olympian gods.",
+          "img": "greece6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Spain",
+      "capital": "Madrid",
+      "url": "spain",
+      "countryId": "2510769",
+      "currencyCode": "EUR",
+      "population": "45.7 mln. inhabitants",
+      "religion": "Roman Catholic",
+      "language": "Spanish",
+      "currency": "Euro",
+      "lat": "40.419348",
+      "lng": "-3.700897",
+      "timeZone":"Europe/Madrid",
+      "flag": "https://restcountries.eu/data/esp.svg",
+      "countryImg": "spain.jpg",
+      "gallery": [
+        {
+          "place": "Sagrada Família",
+          "info": "Sagrada Família, is a large unfinished Roman Catholic minor basilica in the Eixample district of Barcelona, Catalonia, Spain. Designed by Spanish/Catalan architect Antoni Gaudí (1852–1926), his work on the building is part of a UNESCO World Heritage Site. It is anticipated that the building can be completed by 2026, the centenary of Gaudí's death.",
+          "img": "spain1.jpg"
+        },
+        {
+          "place": "Park Güell",
+          "info": "It is a public park system composed of gardens and architectural elements located on Carmel Hill, in Barcelona, Catalonia, Spain.",
+          "img": "spain2.jpg"
+        },
+        {
+          "place": "Ibiza",
+          "info": "International resort. The island is best known for its numerous clubs, where electronic music of a wide variety of styles is performed.",
+          "img": "spain3.jpg"
+        },
+        {
+          "place": "Loro Parque",
+          "info": "Zoo on the outskirts of Puerto de la Cruz on Tenerife, Spain where it houses an extensive and diverse reserve of animal and plant species.",
+          "img": "spain4.jpg"
+        },
+        {
+          "place": "Royal Palace of Madrid",
+          "info": "It is the official residence of the Spanish royal family at the city of Madrid, although now used only for state ceremonies",
+          "img": "spain5.jpg"
+        },
+        {
+          "place": "Toledo, Spain",
+          "info": "It is a city and municipality of Spain, capital of the province of Toledo and the de jure seat of the government and parliament of the autonomous community of Castilla–La Mancha. Toledo was declared a World Heritage Site by UNESCO in 1986 for its extensive monumental and cultural heritage.",
+          "img": "spain6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Italy",
+      "capital": "Rome",
+      "url": "italy",
+      "countryId": "3165140",
+      "currencyCode": "EUR",
+      "population": "60.6 mln. inhabitants",
+      "religion": "Roman Catholic",
+      "language": "Italian",
+      "currency": "Euro",
+      "lat": "41.902689",
+      "lng": "12.496176",
+      "timeZone":"Europe/Rome",
+      "flag": "https://restcountries.eu/data/ita.svg",
+      "countryImg": "italy.jpg",
+      "gallery": [
+        {
+          "place": "Colosseum",
+          "info": "Amphitheater, an architectural monument of Ancient Rome, the most famous and one of the most grandiose structures of the Ancient World that have survived to our time.",
+          "img": "italy1.jpg"
+        },
+        {
+          "place": "Milan Cathedral",
+          "info": "Cathedral located in the historic center of Milan. Dedicated to the Nativity of the Blessed Virgin Mary. Constructed of white marble in flaming Gothic style.",
+          "img": "italy2.jpg"
+        },
+        {
+          "place": "Grand Canal (Venice)",
+          "info": "It is a channel in Venice, Italy. It forms one of the major water-traffic corridors in the city.",
+          "img": "italy2.jpg"
+        },
+        {
+          "place": "Leaning Tower of Pisa",
+          "info": "It is the campanile, or freestanding bell tower, of the cathedral of the Italian city of Pisa, known worldwide for its nearly four-degree lean, the result of an unstable foundation. ",
+          "img": "italy4.jpg"
+        },
+        {
+          "place": "Mount Vesuvius",
+          "info": "An active volcano in southern Italy, about 15 km from Naples. Located on the shores of the Gulf of Naples in the province of Naples, Campania region. It is included in the Apennine mountain system, has a height of 1281 m.",
+          "img": "italy5.jpg"
+        },
+        {
+          "place": "Cinque Terre",
+          "info": "It is a coastal area within Liguria, in the northwest of Italy. It lies in the west of La Spezia Province, and comprises five villages: Monterosso al Mare, Vernazza, Corniglia, Manarola, and Riomaggiore. The coastline, the five villages, and the surrounding hillsides are all part of the Cinque Terre National Park, a UNESCO World Heritage Site.",
+          "img": "italy6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Sri Lanka",
+      "capital": "Sri Jayawardenepura Kotte",
+      "population": "21.3 mln. inhabitants",
+      "url": "sri-lanka",
+      "countryId": "1227603",
+      "currencyCode": "LKR",
+      "religion": "буддизм",
+      "language": "Sinhala, Tamil",
+      "currency": "Sri Lankan rupee",
+      "lat": "6.872842",
+      "lng": "79.929345",
+      "timeZone":"Asia/Colombo",
+      "flag": "https://restcountries.eu/data/lka.svg",
+      "countryImg": "sriLanka.jpg",
+      "gallery": [
+        {
+          "place": "Sigiriya",
+          "info": "It is an ancient rock fortress located in the northern Matale District near the town of Dambulla in the Central Province, Sri Lanka. The name refers to a site of historical and archaeological significance that is dominated by a massive column of rock nearly 200 metres (660 ft) high.",
+          "img": "sriLanka1.jpg"
+        },
+        {
+          "place": "Adam's Peak",
+          "info": "Mountain on the island of Sri Lanka. Buddhists consider this mountain sacred.",
+          "img": "sriLanka2.jpg"
+        },
+        {
+          "place": "Kandy Valleys",
+          "info": "Pearl of Buddhist faith and culture Since 1540 it has been the seat of the Sinhalese kings",
+          "img": "sriLanka3.jpg"
+        },
+        {
+          "place": "Nuwara Eliya",
+          "info": "Nuwara Eliya is translated from Sinhalese as 'city of light'. It is located at an altitude of more than 1800 meters above sea level, and adorns the foot of the highest peak in Ceylon, Pidurutalagala, or Mount Pedro. The main attractions of the city's environs are tea plantations, which are picturesquely spread out in silky green carpets along the slopes of the mountains.",
+          "img": "sriLanka4.jpg"
+        },
+        {
+          "place": "Bentota Beaches",
+          "info": "Bentota is divided into two beaches: a promontory in the north (Paradise Beach), which separates the waves of the Indian Ocean from the calm waters of the Bentota Lagoon, and the southern beach, which is more pleasant, with a huge selection of entertainment and fashionable hotels.",
+          "img": "sriLanka5.jpg"
+        },
+        {
+          "place": "Anuradhapura",
+          "info": "It  is a major city in Sri Lanka. It is the capital city of North Central Province, Sri Lanka and the capital of Anuradhapura District. Anuradhapura is one of the ancient capitals of Sri Lanka, famous for its well-preserved ruins of an ancient Sinhala civilization.",
+          "img": "sriLanka6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "United Arab Emirates",
+      "capital": "Abu Dhabi",
+      "url": "uae",
+      "countryId": "290557",
+      "currencyCode": "AED",
+      "population": "9.3 mln. inhabitants",
+      "religion": "Islam",
+      "language": "Arabic",
+      "currency": "UAE dirham",
+      "lat": "24.485832",
+      "lng": "54.356555",
+      "timeZone":"Asia/Dubai",
+      "flag": "https://restcountries.eu/data/are.svg",
+      "countryImg": "uae.jpg",
+      "gallery": [
+        {
+          "place": "Burj Khalifa",
+          "info": "Super-high skyscraper with a height of 828 meters in Dubai (UAE), the tallest and most multi-storey building, the tallest structure, the only 828-meter and 163-storey skyscraper in the world. The sloping shape of the building resembles a stalagmite.",
+          "img": "uae1.jpg"
+        },
+        {
+          "place": "The Dubai Fountain",
+          "info": "A musical fountain located in an artificial lake with an area of ​​over 12 hectares next to the Burj Khalifa in the center of Dubai.",
+          "img": "uae2.jpg"
+        },
+        {
+          "place": "Sheikh Zayed Mosque",
+          "info": "It is located in Abu Dhabi. The largest mosque in the country, it is the key place of worship for daily, Friday and Eid prayers. During Eid, it may be visited by more than 41,000 people.",
+          "img": "uae3.jpg"
+        },
+        {
+          "place": "Al Mamzar Beach Park ",
+          "info": "Al Mamzar, a huge beach and park complex in Dubai, is located on the peninsula of the same name, practically on the border between the two emirates. It combines 5 beaches at once: 4 are located on the shores of the Persian Gulf, and one is in a quiet, sheltered from the waves of the open sea, the strait between Dubai and anti-Dubai Sharjah.",
+          "img": "uae4.jpg"
+        },
+        {
+          "place": "Dubai Aquarium and Underwater Zoo",
+          "info": "One of the largest oceanariums in the world, located in the largest shopping and entertainment center in the Middle East - 'Dubai Mall'.",
+          "img": "uae5.jpg"
+        },
+        {
+          "place": "Burj Al Arab",
+          "info": "The building stands in the sea at a distance of 280 meters from the coast on an artificial island connected to the ground by a bridge. It has a height of 321 m.Currently, Burj Al Arab is ranked 5th among the tallest hotels in the world, although 39% of its total height is unoccupied premises.",
+          "img": "uae6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Egypt",
+      "capital": "Cairo",
+      "url": "egypt",
+      "countryId": "357994",
+      "currencyCode": "EGP",
+      "population": "100 mln. inhabitants",
+      "religion": "Islam",
+      "language": "Arabic",
+      "currency": "Egyptian pound",
+      "lat": "30.050747",
+      "lng": "31.246900",
+      "timeZone":"Africa/Cairo",
+      "flag": "https://restcountries.eu/data/egy.svg ",
+      "countryImg": "egipet.jpg",
+      "gallery": [
+        {
+          "place": "Giza pyramid complex",
+          "info": "A complex of ancient monuments on the Giza plateau in the suburbs of Cairo. It is believed that the buildings were created in the Ancient Kingdom of Ancient Egypt during the reign of the IV-VI dynasties (XXVI-XXIII centuries BC).",
+          "img": "egipet1.jpg"
+        },
+        {
+          "place": "Valley of the Kings",
+          "info": "It  is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC, rock-cut tombs were excavated for the pharaohs and powerful nobles of the New Kingdom (the Eighteenth to the Twentieth Dynasties of Ancient Egypt).",
+          "img": "egipet2.jpg"
+        },
+        {
+          "place": "Luxor Temple",
+          "info": "It s a large Ancient Egyptian temple complex located on the east bank of the Nile River in the city today known as Luxor (ancient Thebes) and was constructed approximately 1400 BCE. ",
+          "img": "egipet3.jpg"
+        },
+        {
+          "place": "Sharm el-Sheikh resort town (south of the Sinai Peninsula)",
+          "info": "Peninsula in the Red Sea, on the border between Asia and Africa, part of Egypt.",
+          "img": "egipet4.jpg"
+        },
+        {
+          "place": "Karnak",
+          "info": "Comprises a vast mix of decayed temples, chapels, pylons, and other buildings near Luxor.",
+          "img": "egipet5.jpg"
+        },
+        {
+          "place": "Ras Muhammad National Park",
+          "info": "It is a national park in Egypt at the southern extreme of the Sinai Peninsula, overlooking the Gulf of Suez on the west and the Gulf of Aqaba to the east",
+          "img": "egipet6.jpg"
+        }
+      ]
+    },
+    {
+      "country": "Montenegro",
+      "capital": "Podgorica",
+      "url": "montenegro",
+      "countryId": "3194884",
+      "currencyCode": "EUR",
+      "population": "621 873 inhabitants",
+      "religion": "Eastern Orthodoxy",
+      "language": "Montenegrin",
+      "currency": "Euro",
+      "lat": "42.436491",
+      "lng": "19.252702",
+      "timeZone":"Europe/Podgorica",
+      "flag": "https://restcountries.eu/data/mne.svg",
+      "countryImg": "montenegro.jpg",
+      "gallery": [
+        {
+          "place": "Budva",
+          "info": " is a Montenegrin town on the Adriatic Sea. It has 19,218 inhabitants, and it is the centre of Budva Municipality. The coastal area around Budva, called the Budva riviera, is the center of Montenegrin tourism, known for its well-preserved medieval walled city, sandy beaches and diverse nightlife. Budva is 2,500 years old, which makes it one of the oldest settlements on the Adriatic coast.",
+          "img": "montenegro1.jpg"
+        },
+        {
+          "place": "Kotor Cathedral",
+          "info": "The Cathedral of Saint Tryphon, despite numerous reconstructions, is an outstanding example of Romanesque architecture.",
+          "img": "montenegro2.jpg"
+        },
+        {
+          "place": "Ostrog Monastery",
+          "info": "It  is a monastery of the Serbian Orthodox Church situated against an almost vertical background, high up in the large rock of Ostroška Greda, in Montenegro. It is dedicated to Saint Basil of Ostrog (Sveti Vasilije Ostroški), who was buried here. From the monastery, the Bjelopavlići plain can be seen.",
+          "img": "montenegro3.jpg"
+        },
+        {
+          "place": "Tara River Canyon",
+          "info": "Also known as Tara River Gorge, is a part of Durmitor National Park. Within Montenegro the canyon is protected as a part of Durmitor National Park and is a UNESCO World Heritage Site.",
+          "img": "montenegro4.jpg"
+        },
+        {
+          "place": "Becici beach",
+          "info": "Becici beach on the Budva Riviera in the suburbs of Budva is one of the best beaches in Montenegro.",
+          "img": "montenegro5.jpg"
+        },
+        {
+          "place": "Đurđevića Tara Bridge",
+          "info": "It is a concrete arch bridge over the Tara River in northern Montenegro. It is located at the crossroads between Mojkovac, Žabljak and Pljevlja, between the villages of Budečevica and Trešnjica.",
+          "img": "montenegro6.jpg"
+        }
+      ]
+    }
+  ],
+  "placeholder": "Enter city",
+  "search": "search",
+  "feel": "Feels like:",
+  "wind": "Wind:",
+  "ms": "m/s",
+  "humidity": "Humidity:",
+  "day": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday"
+  ],
+  "month": [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December"
+  ],
+  "lat": "Latitude:",
+  "lng": "Longitude:",
+  "wether": {
+    "200": "Thunderstorm with light rain",
+    "201": "Thunderstorm with rain",
+    "202": "Thunderstorm with heavy rain",
+    "231": "Thunderstorm with drizzle",
+    "232": "Thunderstorm with heavy drizzle",
+    "233": "Thunderstorm with Hail",
+    "300": "Light Drizzle",
+    "301": "Drizzle",
+    "302": "Heavy Drizzle",
+    "500": "Light Rain",
+    "501": "Moderate Rain",
+    "502": "Heavy Rain",
+    "511": "Freezing rain",
+    "520": "Light shower rain",
+    "521": "Shower rain",
+    "522": "Heavy shower rain",
+    "600": "Light snow",
+    "601": "Snow",
+    "602": "Heavy Snow",
+    "610": "Mix snow/rain",
+    "611": "Sleet",
+    "612": "Heavy sleet",
+    "621": "Snow shower",
+    "622": "Heavy snow shower",
+    "623": "Flurries",
+    "700": "Mist",
+    "711": "Smoke",
+    "721": "Haze",
+    "731": "Sand/dust",
+    "741": "Fog",
+    "751": "Freezing Fog",
+    "800": "Clear sky",
+    "801": "Few clouds",
+    "802": "Scattered clouds",
+    "803": "Broken clouds",
+    "804": "Overcast clouds",
+    "900": "Unknown Precipitation"
+  },
+  "error": "There is no such place",
+  "notFound": "Page not found",
+  "authors": [
+    "Iryna Kavaleuskaya",
+    "Ivan Shukalo",
+    "Evgenia Kurineva"
+  ]
+}
